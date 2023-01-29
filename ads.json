@@ -1,0 +1,28 @@
+{
+    "first_project": {
+        "gh_author": "kdhttps",
+        "gh_repo_path": "second-ads-project",
+        "project_name": "first_project",
+        "version": "0.0.1",
+        "author": "kdhttps",
+        "author_website": "https://github.com/kdhttps/second-ads-project",
+        "github_uri": "https://github.com/kdhttps/second-ads-project",
+        "project_description": "first project",
+        "license": "MIT",
+        "last_updated": "1674990010639",
+        "project_type": "community"
+    },
+    "second_project": {
+        "gh_author": "kdhttps",
+        "gh_repo_path": "second-ads-project",
+        "project_name": "second_project",
+        "version": "0.0.1",
+        "author": "kdhttps",
+        "author_website": "https://github.com/kdhttps/second-ads-project",
+        "github_uri": "https://github.com/kdhttps/second-ads-project",
+        "project_description": "second",
+        "license": "MIT",
+        "last_updated": "1674990738879",
+        "project_type": "community"
+    }
+}
